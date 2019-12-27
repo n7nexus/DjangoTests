@@ -1,6 +1,6 @@
 language: python
 python:
-  - "3.5" # current version
+  - "3.8" # current version
 before_install:
   - python -m pip install --upgrade pip
 install:
