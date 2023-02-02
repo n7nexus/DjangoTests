@@ -6,4 +6,4 @@ Jinja2==2.10
 MarkupSafe==1.1.1
 pytz==2019.3
 sqlparse==0.3.0
-Werkzeug==0.15.3
+Werkzeug==0.15.5
